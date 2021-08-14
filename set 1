@@ -2,7 +2,7 @@
 #include<math.h>
 int main(){
     int x, y, z;
-    scanf("%d %d %d", &x, &y, &z);
+    scanf("%d %d", &x, &y);
     z = pow(x, 2*y*y) - 4*x;
-    printf("%d", z);   
+    printf("%d", z);
 }
