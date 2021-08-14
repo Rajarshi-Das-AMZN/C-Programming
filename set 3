@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+    int sum_of_marks, total_students;
+    float mean;
+    mean = ((float) sum_of_marks + (float) total_students) / 2;
+}
